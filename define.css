@@ -3,6 +3,25 @@ body{
 }
 
 
+.socials-icons{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    height: 250px;
+    justify-content: space-around;
+    z-index: 200;
+    margin-top: 15%;
+}
+.socials-icons img{
+    height: 25px;
+}
+@media (max-width: 740px) {
+    .socials-icons
+     {
+        display: none;
+    }
+}
 
 
 
