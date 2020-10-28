@@ -16,7 +16,7 @@ body{
 }
 
 
-.ar-container > a >img{
+.ar-container > a .ar_img{
   height: 700px;
 }
 .view {
