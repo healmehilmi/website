@@ -1,5 +1,5 @@
 img {
-        height: 800px;
+    width: 100%;
   }
 
 
@@ -16,7 +16,9 @@ body{
 }
 
 
-
+.ar-container > a >img{
+  height: 700px;
+}
 .view {
   margin-top: 13rem;
 }
